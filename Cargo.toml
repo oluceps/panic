@@ -14,9 +14,9 @@ jni = "0.20.0"
 crate-type = [ "cdylib" ]
 
 [package.metadata.android]
-package = "co.nichi.panic"
-apk_name = "panic"
 build_targets = [ "aarch64-linux-android" ]
+package = "co.zMDYnP.panic"
+apk_name = "PANIC!!!!!!!"
 strip = "strip"
 assets = "assets"
 
